@@ -1,0 +1,19 @@
+{
+  "name": "angular-custom-directives",
+  "version": "1.0.0",
+  "description": "### Objectives - Describe the different types of custom directives available - Create a custom directive - Explain why custom directives are valuable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladyslavkuliani/angular-custom-directives.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladyslavkuliani/angular-custom-directives/issues"
+  },
+  "homepage": "https://github.com/vladyslavkuliani/angular-custom-directives#readme"
+}
